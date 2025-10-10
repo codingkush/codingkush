@@ -3,7 +3,7 @@
 
 💻 Passionate about building impactful solutions through clean code and creative problem-solving.  
 🎯 Building projects with **Spring Boot** and **full-stack development** while consistently improving my DSA skills.  
-📈 Solved **400+ DSA problems** across platforms like LeetCode, Codeforces, and CodeChef.  
+📈 Solved **400+ DSA problems** across platforms like **LeetCode, GeeksforGeeks, CodeStudio, etc.**  
 🤖 I love creating projects that combine **AI, backend systems, and modern web technologies** — such as building intelligent assistants, chat analyzers, and smart web applications.
 
 ---
