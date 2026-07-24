@@ -20,7 +20,7 @@
 
 ## 🏆 Achievements
 
-- Solved **400+ DSA problems** on various platforms  
+- Solved **500+ DSA problems** on various platforms  
 - Built **AI-powered and full-stack applications**  
 - Continuously improving problem-solving and backend architecture design  
 
